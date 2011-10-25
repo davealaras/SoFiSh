@@ -1,0 +1,36 @@
+#login{
+	width: 265px;
+}
+#register{
+	width: 265px;
+}
+
+#aquarium{
+	background-color:#fff;
+	height:300px;
+	margin-top:10px;
+}
+.bubble{
+	width:150px;
+	height:150px;
+	margin-bottom:3px;
+	background-color:#eeea88;
+	border-radius:75px;
+}
+.bubble h1{
+	padding-top: 50px;
+	font-size: 17px;
+	text-align: center;
+}
+#aquarium .wave{
+	height:48px;
+}
+.deep{
+	background-color:#ebfcf8;
+}
+.deeper{
+	background-color:#e3fdf6;
+}
+.deepest{
+	background-color:#dbfef5;
+}

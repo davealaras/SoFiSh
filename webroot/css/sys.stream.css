@@ -1,0 +1,84 @@
+.profile_pic {
+	width:46px;
+	height:46px;
+	border-radius:23px;
+	text-align:center;
+	margin-bottom: 3px;
+}
+.profile_pic img{
+	margin-top:5px;
+	width: 36px;
+	height: 36px;
+	border-radius:18px;
+}
+#live_stream{
+	width:580px;
+}
+#live_stream .stream ul{
+	list-style: none;
+}
+#live_stream .stream ul li{
+	display:inline-block;
+	margin-right: 3px;
+	font-size:9px;
+}
+.feed_item{
+	border-top:1px dashed antiqueWhite;
+	padding-top:4px;
+	margin-top:2px;
+}
+.feeds .author{
+	font-size:11px;
+	font-weight:bold;
+}
+.feeds a{
+	text-decoration:none;
+	color:#175847;
+}
+.feeds a:hover{
+	text-decoration:underline;
+	color:#175847;
+}
+.feeds span{
+	color:black;
+	font-size:10px;
+}
+.feeds abbr{
+	color:#575E57;
+}
+.feeds .story{
+	width:450px;
+	border: 1px solid #41a68b;
+	margin-bottom:3px;
+	padding:2px;
+	border-radius:4px;
+}
+
+.feeds .story .photoStream{
+	min-height:100px;
+}
+
+.feeds .story .photoStream .imageThumbnail{
+	display:inline-block;
+	height:95px;
+	width:95px;
+	border:1px solid grey;
+	padding:3px;
+	margin: 3px;
+}
+.feeds .story .photoStream .imageThumbnail img{
+	height:95px;
+	width:95px;
+}
+.feeds .burst{
+	font-size:11px;
+}
+.comment_pool{
+	margin-left:55px;
+}
+.comment_pool .comment_item{
+	padding-bottom : 5px;
+}
+.comment_pool .action_list{
+	text-align:right;
+}

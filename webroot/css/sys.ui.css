@@ -1,0 +1,149 @@
+.form{
+	padding:10px;
+	width: 265px;
+}
+.form .tab-head span{
+	background-color:#6fc86f;
+	padding:2px 2px;
+	padding-bottom:0px;
+	font-size:12px;
+	color:white;
+	border:1px solid #56a156;
+	border-bottom:1px solid #6fc86f;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	font-weight:bold;
+}
+.form .tab-content {
+	border:1px solid #56a156;
+	padding:3px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+	border-top-right-radius:4px;
+	
+}
+.form  .input{
+	padding:5px 0px;
+}
+.form .input input, .form .input select{
+	width:240px;
+	height:27px;
+	margin-left:4px;
+	font-size: 17px;
+	padding:3px;
+}
+.form  .input label{
+	display: block;
+	font-size:12px;
+	color:#175847;
+}
+.form  .submit{
+	text-align:right;
+}
+.form  .submit input{
+	background-color:#41A68B;
+	color:#fff;
+	border:0px;
+	width:60px;
+	padding:3px 0px;
+	border-radius:15px;
+	font-weight:bold;
+}
+.profile-picture{
+	width:240px;
+	height:240px;
+	border: 2px dashed grey;
+}
+.actions{
+	font-size:12px;
+	color:grey;
+}
+.actions a{
+	color:#175847;
+}
+.actions a:hover{
+	text-decoration:underline;
+}
+.interactions {
+	display:inline-block;
+	width: 16px;
+	height: 16px;
+}
+
+.seperator{
+		height:5px;
+}
+	
+.mainMenuSub {
+	list-style: none;
+	margin-left:1px;
+	padding:2px;
+	width:120px;
+	border:1px solid grey;
+	background-color:#fff;
+}
+.no_top{
+		border-top:none;
+}
+.mainMenuSub li{
+	display:block;
+	font-size:10px;
+	text-align:left;
+}
+
+.mainMenuSub li img{
+	width:auto;
+	height:auto;
+	margin-right:2px;
+}
+.mainMenuSub li:hover{
+	color:white;
+	background:#41A68B;
+	cursor:pointer;
+}
+.hide{
+	display:none;
+}
+span.actor{
+zoom:0.8;
+}
+.tip{
+	margin-right:10px;
+}
+.arrow{
+	margin-top: 9px;
+	margin-left: -11px;
+	z-index: -1;
+	position: relative;
+}
+.arrow-up {
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-bottom: 5px solid black;
+}
+
+.arrow-down {
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid #56A156;
+}
+
+.arrow-right {
+        width: 0;
+        height: 0;
+        border-top: 60px solid transparent;
+        border-bottom: 60px solid transparent;
+        border-left: 60px solid green;
+}
+
+.arrow-left {
+        width: 0;
+        height: 0;
+        border-top: 14px solid transparent;
+        border-bottom: 14px solid transparent; 
+        border-right:14px solid #41A68B;
+}

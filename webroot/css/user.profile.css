@@ -1,0 +1,95 @@
+.bubble{
+	width:10px;
+	height:10px;
+	border-radius:5px;
+	display:inline-block;
+	margin:2px;
+	
+}
+.bubble_line{
+	border:1px solid #41A68B;
+}
+button{
+	background-color: #41A68B;
+	color: white;
+	border: 0px;
+	padding: 3px 5px;
+	border-radius: 4px;
+	font-weight: bold;
+}
+.profileInfo{
+	color:#575e57;
+	font-size:10px;
+}
+.profileInfo a{
+	color:#175847;
+	font-weight:bold;
+}
+.profileInfo a:hover{
+	text-decoration:underline;
+}
+#statInfo{
+	margin-right:20px;
+}
+#statInfo .statCategory{
+	text-align:center;
+	display:inline-block;
+}
+#statInfo .statDescripton{
+	color:#575E57;
+	font-size:10px;
+}
+#statInfo .statCategory .points{
+	color:#41A68B;
+	font-size:19px;
+}
+#dropArea{
+	color:#fff;
+}
+#dropArea:hover{
+	border:1px dashed #575E57;
+	height:30px;
+	text-align:center;
+	margin:2px;
+	font-size:12px;
+	padding-top:8px;
+	color:#41A68B;
+}
+#bubblePost{
+	padding: 3px;
+	width:620px;
+	min-height:50px;
+}
+#inputBubbble{
+	width:606px;
+	border: 1px solid #56A156;
+	border-radius: 4px;
+	padding:3px;
+}
+#bubblePost textarea{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width:606px;
+	max-width:606px;
+	border:none;
+}
+#bubblePost button{
+	margin-top:3px;
+}
+.lime{
+	background-color:#6fc86f;
+}
+.scarlet{
+	background-color:#d65d5d;
+}
+.gold{
+	background-color:#eeea88;
+}
+.purple{
+	background-color:#dc83ef;
+}
+.seagreen{
+	background-color:#41a68b;
+}
+.coffee{
+	background-color:#d08821;
+}

@@ -1,0 +1,6 @@
+2011-10-04 16:58:20 Debug: Notice (8): Undefined index: id in [C:\cake\cake\libs\model\model.php, line 1329]
+2011-10-04 16:58:29 Debug: Notice (8): Undefined index: id in [C:\cake\cake\libs\model\model.php, line 1329]
+2011-10-04 17:00:46 Debug: Notice (8): Undefined index: id in [C:\cake\cake\libs\model\model.php, line 1329]
+2011-10-22 15:07:34 Debug: Notice (8): Undefined variable: Html in [C:\xampp\htdocs\sofish\views\layouts\default.ctp, line 53]
+2011-10-22 15:46:58 Debug: Notice (8): Use of undefined constant action - assumed 'action' in [C:\xampp\htdocs\sofish\views\pages\home.ctp, line 2]
+2011-10-23 17:39:58 Debug: Notice (8): Undefined property: View::$Javscript in [C:\xampp\htdocs\sofish\views\elements\navigation.ctp, line 1]

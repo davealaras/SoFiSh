@@ -1,0 +1,15 @@
+.error{
+	padding: 3px;
+	margin: 3px;
+	background-color:#fffcbc;
+	border:1px solid #eeea88;
+}
+.error_header h1{
+	color:#d65d5d;
+	display:inline-block;
+	font-size:12px;
+	font-weight:bold;
+}
+.error_message p{
+	font-size:10px;
+}
